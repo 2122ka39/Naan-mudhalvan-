@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Your Resume Portfolio</title>in
+
+</head>
+
+
+
+<body>
+
+    <header>
+
+        <h1>Sajith k</h1>
+
+        <p>Student</p>
+
+    </header>
+
+
+
+    <section id="about">
+
+        <h2>About Me</h2>
+
+        <p>Motivated and enthusiastic computer science student with knowledge in programming language.</p>
+
+    </section>
+
+
+
+    <section id="experience">
+
+        <h2>Certications</h2>
+
+        <ul>
+
+            <li>certified in JavaScript Basics at Coursera.</li>
+
+            <li>participated in CS50(Aug 2022).</li>
+
+            <li>Certified at "Programming foundation with
+
+Javascript, HTML, CSS" (2022).</li>
+
+           
+
+        </ul>
+
+        
+
+        </div>
+
+    </section>
+
+
+
+    <section id="education">
+
+        <h2>Education</h2>
+
+        <div class="education">
+
+            <h3>Bachelor of Science in Computer Science</h3>
+
+            <p><strong>College:</strong> KG College of Arts and Science</p>
+
+            <p><strong>Graduation Year:</strong> 2024</p>
+
+        </div>
+
+    </section>
+
+
+
+    <section id="skills">
+
+        <h2>Skills</h2>
+
+        <ul>
+
+            <li>C programming</li>
+
+            <li>C++ Programming</li>
+
+            <li>Java Programming</li>
+
+            <li>Python Programming</li>
+
+            <li>Linux</li>
+
+        </ul>
+
+    </section>
+
+
+
+    <section id="contact">
+
+        <h2>Contact Information</h2>
+
+        <p>Email: 2122ka39@kgcas.com</p>
+
+        <p>Phone: 9677734248</p>
+
+        <p>LinkedIn: <a>  https://www.linkedin.com/in/sajith-k-22842727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
+
+    </section>
+
+</body>
+
+</html>
