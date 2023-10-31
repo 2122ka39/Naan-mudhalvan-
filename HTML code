@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="styles.css">
 
-    <title>Your Resume Portfolio</title>in
+    <title>Your Resume Portfolio</title>
 
 </head>
 
@@ -20,7 +20,7 @@
 
     <header>
 
-        <h1>Sajith k</h1>
+        <h1>Sajith K</h1>
 
         <p>Student</p>
 
@@ -46,11 +46,9 @@
 
             <li>certified in JavaScript Basics at Coursera.</li>
 
-            <li>participated in CS50(Aug 2022).</li>
+            <li>participated in CS50 organized by cambridge (2022).</li>
 
-            <li>Certified at "Programming foundation with
-
-Javascript, HTML, CSS" (2022).</li>
+            <li>certified at programming foundation with javascript,HTML,CSS(2022)
 
            
 
@@ -112,7 +110,7 @@ Javascript, HTML, CSS" (2022).</li>
 
         <p>Phone: 9677734248</p>
 
-        <p>LinkedIn: <a>  https://www.linkedin.com/in/sajith-k-22842727a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</a></p>
+        <p>LinkedIn:<a href="https://www.linkedin.com/in/sajith-k-22842727a?">linked in</a></p>
 
     </section>
 
